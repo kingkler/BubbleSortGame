@@ -68,3 +68,8 @@ An interactive game coded in python which helps understand how the algorithm fun
     Sorting History.
     
 ![Rough Design](https://github.com/user-attachments/assets/10ba9c18-6053-4121-b3b7-e8f7182a1ea6)
+
+**Hugging Face**
+https://huggingface.co/spaces/jasmeetkler/bubble-sort-game
+
+The gradio proccess is where most of my AI usage came as I had very little knowledge on how to operate that software.
