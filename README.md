@@ -1,3 +1,4 @@
+
 # BubbleSortGame
 An interactive game coded in python which helps understand how the algorithm functions.
 
@@ -43,10 +44,10 @@ An interactive game coded in python which helps understand how the algorithm fun
   Input
   
   The user interacts by:
-    Generate New List
-    Swap
-    Don't Swap
-    Auto Sort
+    Generate New List,
+    Swap,
+    Don't Swap,
+    Auto Sort.
     
   Processing
   
@@ -60,8 +61,10 @@ An interactive game coded in python which helps understand how the algorithm fun
   Output
   
   The UI updates by:
-    New list
-    Refreshed bar graph
-    Step number
-    Feedback
-    Sorting History
+    New list,
+    Refreshed bar graph,
+    Step number,
+    Feedback,
+    Sorting History.
+    
+![Rough Design](https://github.com/user-attachments/assets/10ba9c18-6053-4121-b3b7-e8f7182a1ea6)
